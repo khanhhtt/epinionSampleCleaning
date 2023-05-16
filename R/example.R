@@ -1,6 +1,6 @@
-#' Get path to epinion_sample_cleaning example
+#' Get path to epinionSampleCleaning example
 #'
-#' epinion_sample_cleaning comes bundled with a number of sample files in its `inst/extdata`
+#' epinionSampleCleaning comes bundled with a number of sample files in its `inst/extdata`
 #' directory. This function make them easy to access
 #'
 #' @param file Name of file. If `NULL`, the example files will be listed.

@@ -2,7 +2,7 @@
 % Please edit documentation in R/example.R
 \name{epinionSampleCleaning_example}
 \alias{epinionSampleCleaning_example}
-\title{Get path to epinion_sample_cleaning example}
+\title{Get path to epinionSampleCleaning example}
 \usage{
 epinionSampleCleaning_example(file = NULL)
 }
@@ -10,7 +10,7 @@ epinionSampleCleaning_example(file = NULL)
 \item{file}{Name of file. If `NULL`, the example files will be listed.}
 }
 \description{
-epinion_sample_cleaning comes bundled with a number of sample files in its `inst/extdata`
+epinionSampleCleaning comes bundled with a number of sample files in its `inst/extdata`
 directory. This function make them easy to access
 }
 \examples{
